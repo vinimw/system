@@ -69,6 +69,20 @@
 					</div>
 				</div>
 			</div>
+
+
+			<div class="alinhaCem">
+				
+				<div class="col-one">
+					<div class="uncol-one-pad"><h2>Paginação</h2></div>
+
+					<div class="alinhaCem">
+						<div class="uncol-one-pad">
+							
+						</div>
+					</div>
+				</div>
+			</div>
 								
 				
 			
