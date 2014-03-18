@@ -57,8 +57,8 @@
 
 						<div class="alinhaCem">
 							<div class="uncol-three">
-								<label class="form-label">Nome: <span class="label-required">*</span></label>
-								<input class="form-input-three required" type="text" name="nome">
+								<label class="form-label">Data: <span class="label-required">*</span></label>
+								<input class="form-input-three required datepicker" type="text" name="nome">
 							</div>
 
 							<div class="uncol-three">
