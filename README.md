@@ -1,3 +1,3 @@
 Atenção
 ======
-Este projeto ainda está em andamento, não faça o download, espera a atualização final.
+Este projeto ainda está em andamento, não faça o download, espere a atualização final.
