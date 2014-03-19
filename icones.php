@@ -193,6 +193,11 @@
 						<span>users.png</span>
 					</div>
 
+					<div class="icon-frame">
+						<img src="images/question.png">
+						<span>question.png</span>
+					</div>
+
 				</div>
 
 								
